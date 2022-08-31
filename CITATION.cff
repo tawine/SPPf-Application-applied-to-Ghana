@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Awine"
+  given-names: "Timothy"
+  orcid: "https://orcid.org/0000-0002-7340-6111"
+title: "My Research Software and supporting files"
+version: 2.0.4
+doi: 10.5281/zenodo.7037744
+date-released: 2022-08-31
+url: "https://doi.org/10.5281/zenodo.7037744"
